@@ -5,7 +5,6 @@ Shadow Ninja é um jogo 2D de plataforma com ninjas. O jogador controla um ninja
 ## Estrutura do Projeto
 
 - **assets/**: Imagens e sons utilizados no jogo.
-- **docs/**: Documentação e diagramas (ex: UML).
 - **src/**: Código-fonte do jogo.
 - **build/**: Pasta para compilação ou empacotamento do jogo.
 

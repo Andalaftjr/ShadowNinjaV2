@@ -1,8 +1,10 @@
-# Arquivo: src/main.py
-# Ponto de entrada do jogo Shadow Ninja
-
+import pygame
 from game import Game
 
-if __name__ == "__main__":
+def main():
+    pygame.init()
     game = Game()
     game.run()
+
+if __name__ == "__main__":
+    main()
